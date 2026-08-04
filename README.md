@@ -7,6 +7,27 @@ npm run start:dev или npm run start:dev:vite - запуск сервера + 
 
 ----
 
+## Данные для входа
+
+Для тестирования доступны следующие аккаунты:
+
+**Admin:**
+- Username: `admin`
+- Password: `123`
+- Роль: ADMIN (полный доступ к админ-панели)
+
+**User:**
+- Username: `user`
+- Password: `123`
+- Роль: USER (обычный пользователь)
+
+**Manager:**
+- Username: `manager`
+- Password: `123`
+- Роль: MANAGER
+
+----
+
 ## Скрипты
 
 - `npm run start` - Запуск frontend проекта на webpack dev server
